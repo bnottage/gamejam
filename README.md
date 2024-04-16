@@ -1,9 +1,11 @@
 # GameJam
-
+Woo! Hoo! Hooray!
 
 # People
+Biran, Abigail, Adi, Simon
 
-#Labyrnth ideas:
+
+Labyrnth ideas:
 Minotaur chases "hero" out of labyrnth
 ancient
 stone
