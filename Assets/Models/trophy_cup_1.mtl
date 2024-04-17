@@ -1,0 +1,18 @@
+newmtl trophy_cup_1_Mat
+Ni 1.6
+Ka 0 0 0
+map_Ke trophy_cup_1/trophy_cup_1_glow.png
+d 1
+Kd 0 0 0
+adobe_map_normal trophy_cup_1/trophy_cup_1_normal.png
+map_d trophy_cup_1/trophy_cup_1_opacity.png
+Tr 0
+illum 7
+Ks 1 1 1
+adobe_translucence 0.0
+adobe_map_roughness trophy_cup_1/trophy_cup_1_roughness.png
+adobe_interior_color 1.0 1.0 1.0
+adobe_density 0.0
+map_Pm trophy_cup_1/trophy_cup_1_metallic.png
+Ns 16
+map_Kd trophy_cup_1/trophy_cup_1_baseColor.png
