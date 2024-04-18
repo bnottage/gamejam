@@ -29,5 +29,5 @@ Background - https://stock.adobe.com/images/spaceship-interior-with-view-on-blac
 Fonts - https://www.dafont.com/ethereal.font, https://www.dafont.com/techno-board.font, https://www.dafont.com/reboot-crush.font, https://www.dafont.com/origin-tech.font, https://www.dafont.com/cyborg-punk.font
 
 Music and Sound Effects:
-https://freesound.org/
+https://freesound.org/, https://www.bensound.com/,  https://www.bensound.com/royalty-free-music/track/epic, https://www.bensound.com/royalty-free-music/track/the-duel, https://freesound.org/people/DWOBoyle/sounds/474179/, https://freesound.org/people/steaq/sounds/560124/, https://freesound.org/people/guillermochicasonido/sounds/667633/, https://freesound.org/people/Andromadax24/sounds/178350/, https://freesound.org/people/sonically_sound/sounds/612875/, https://freesound.org/people/Daleonfire/sounds/548138/, https://freesound.org/people/djfroyd/sounds/384252/, 
 
