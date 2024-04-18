@@ -8,7 +8,7 @@ The theme of the jam was reverse so we did a reversal of the normal Labyrinth ga
 The objective of the game is to exit the labyrinth. Using the WASD keys in a first-person setting to traverse the labyrinth. 
 
 ## Impediments
-We struggled a lot with GitHub and the library becoming corrupted as we did our separate parts when we tried to put them together. 
+We struggled a lot with GitHub and the library becoming corrupted as we did our separate parts when we tried to put them together. There was a glitch with the collision of the player and the trophy not working unless the player spawned in front of the trophy.
 
 ## References
 
