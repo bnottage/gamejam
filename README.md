@@ -2,8 +2,7 @@
 MSCH_C220 Game Jam, April 2024
 
 ## Theme
-The theme of the jam was reverse so we did a reversal of the normal Labyrinth game troupe, instead of you exploring the remains of a labyrinth in a classic Greek setting. Instead of you being the player searching for the center, you are the "minotar" and you're trying to escape. It is also a cyberpunk space theme instead of a classic brick maze.
-
+The theme of the jam was reverse so we did a reversal of the normal Labyrinth game troupe, instead of you exploring the remains of a labyrinth in a classic Greek setting it's in a cyber-punk space theme labyrinth. Instead of you being the player searching for the center, you are the "minotar" and you're trying to escape. 
 ## Game Play
 The objective of the game is to exit the labyrinth. Using the WASD keys in a first-person setting to traverse the labyrinth. 
 
